@@ -1,13 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Hello, I'm Lukas.</title>
-  <desc id="description">Design engineer in Stockholm. Making complex systems feel calm, fast, and beautiful.</desc>
+  <desc id="description">Making complex systems feel calm, fast, and beautiful.</desc>
 
   <defs>
     <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse">
       <path d="M36 0H0V36" fill="none" stroke="#27272a" stroke-opacity="0.07" stroke-width="1" />
     </pattern>
     <radialGradient id="orange-glow" cx="0.86" cy="0.22" r="0.62">
-      <stop offset="0" stop-color="#fa5c26" stop-opacity="0.16" />
+      <stop offset="0" stop-color="#fa5c26" stop-opacity="0.016" />
       <stop offset="1" stop-color="#fa5c26" stop-opacity="0" />
     </radialGradient>
     <clipPath id="rounded">
@@ -20,41 +20,14 @@
     <rect width="1200" height="360" fill="url(#grid)" />
     <rect width="1200" height="360" fill="url(#orange-glow)" />
 
-    <g transform="translate(72 54) scale(0.105)" fill="#27272a">
-      <path d="M83.4157 1.4382V427.146H284.764V291.955H365.303V510.562H71.9101C32.2157 510.562 0 478.346 0 438.652V73.3483C0 33.6539 32.2157 1.4382 71.9101 1.4382H83.4157Z" />
-      <path d="M143.82 1.4382H227.236V148.135H425.708V1.4382H440.09C479.784 1.4382 512 33.6539 512 73.3483V438.652C512 478.346 479.784 510.562 440.09 510.562H428.584V225.798H230.112V366.742H143.82V1.4382Z" />
-    </g>
-
-    <g transform="translate(152 56)">
-      <rect width="262" height="31" rx="15.5" fill="#fa5c26" />
-      <text x="16" y="21" fill="#ffffff" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="13" font-weight="600" letter-spacing="0.9">DESIGN ENGINEER · STOCKHOLM</text>
-    </g>
-
-    <g transform="translate(72 137)">
-      <text x="0" y="52" fill="#27272a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="58" font-weight="600" letter-spacing="-3">Hello, I'm Lukas.</text>
+    <g transform="translate(72 93)">
+      <text x="0" y="52" fill="#27272a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="62" font-weight="600" letter-spacing="-3">Hello, I'm Lukas.</text>
       <text x="2" y="105" fill="#52525b" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="21" font-weight="400">Making complex systems feel calm, fast, and beautiful.</text>
-      <g transform="translate(2 145)">
+      <g transform="translate(2 157)">
         <circle cx="7" cy="7" r="7" fill="#fa5c26" />
         <text x="24" y="13" fill="#27272a" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace" font-size="16" font-weight="500">lukashammarstrom.com  ↗</text>
       </g>
     </g>
-
-    <g transform="translate(932 66)">
-      <rect width="204" height="228" rx="24" fill="#ffffff" fill-opacity="0.76" stroke="#27272a" stroke-opacity="0.14" />
-      <g transform="translate(24 26)" font-family="ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace">
-        <rect width="30" height="5" rx="2.5" fill="#fa5c26" />
-        <text x="0" y="52" fill="#71717a" font-size="12" letter-spacing="1.2">01 / UNDERSTAND</text>
-        <line x1="0" y1="66" x2="156" y2="66" stroke="#27272a" stroke-opacity="0.12" />
-        <text x="0" y="97" fill="#71717a" font-size="12" letter-spacing="1.2">02 / DESIGN</text>
-        <line x1="0" y1="111" x2="156" y2="111" stroke="#27272a" stroke-opacity="0.12" />
-        <text x="0" y="142" fill="#71717a" font-size="12" letter-spacing="1.2">03 / BUILD</text>
-        <line x1="0" y1="156" x2="156" y2="156" stroke="#27272a" stroke-opacity="0.12" />
-        <rect x="0" y="181" width="87" height="6" rx="3" fill="#27272a" />
-        <rect x="94" y="181" width="14" height="6" rx="3" fill="#fa5c26" />
-      </g>
-    </g>
-
-    <path d="M870 0V360" stroke="#27272a" stroke-opacity="0.08" />
   </g>
 
   <rect x="1" y="1" width="1198" height="358" rx="27" fill="none" stroke="#27272a" stroke-opacity="0.18" stroke-width="2" />
