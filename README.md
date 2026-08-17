@@ -1,3 +1,5 @@
+<!-- GitHub profile README -->
+
 <div align="center">
   <img src="./assets/welcome.svg" alt="Welcome — I'm Lukas. I build thoughtful tools for people and AI." width="100%" />
 </div>
