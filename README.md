@@ -8,10 +8,6 @@
 
 <br />
 
-<a href="https://lukashammarstrom.com">
-  <img align="right" src="./assets/lukas-coding.webp" alt="Lukas coding, surrounded by screens" width="310" />
-</a>
-
 ## A little about me
 
 I'm a **design engineer in Stockholm**. I turn complex domains into product surfaces that feel calm, fast, and obvious — then polish the details users actually feel.
